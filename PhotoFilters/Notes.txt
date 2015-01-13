@@ -1,0 +1,23 @@
+/*  ============================================================================
+//  Notes.txt
+//  PhotoFilters assignment TODO list
+//
+//  Created by Gru on 01/12/15.
+//  Copyright (c) 2015 GruTech. All rights reserved.
+//
+//  https://canvas.instructure.com/courses/901432/assignments/3293292
+//
+//  Week 2 - Photo Filtering
+//  Due Sunday by 8am  Points 100  Submitting a website url
+// -----------------------------------------------------------------------------
+//  Monday, January 12, 2015
+//
+// W2.D1.01[ ] Setup your interface with the Nav Controller, the photo button at the bottom,
+//                  and an image view that takes up most of the screen. Use autolayout in code
+//                  to properly layout your interface
+// W2.D1.02[ ] Add an alert controller with the style set to action sheet
+// W2.D1.03[ ] Add a gallery action that pushes a gallery view controller onto the nav
+//                  controller
+// W2.D1.04[ ] In the gallery view controller, display at least 6 photos in your gallery
+//                  (https://unsplash.com is great)
+/  ======================================================================== = */
